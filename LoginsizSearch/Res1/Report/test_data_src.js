@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\besil\\Documents\\Unified Functional Testing\\LoginsizSearch\\Res1',namePairs:[]}]};
